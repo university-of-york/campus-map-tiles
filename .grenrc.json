@@ -1,0 +1,8 @@
+{
+    "token": "70a26592359bebd485e96f0c8ba14598f6c68a24",
+    "dataSource": "prs",
+    "prefix": "v",
+    "onlyMilestones": false,
+    "groupBy": false,
+    "changelogFilename": "CHANGELOG.md"
+}
