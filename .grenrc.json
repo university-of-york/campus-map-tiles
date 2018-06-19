@@ -1,5 +1,5 @@
 {
-    "dataSource": "prs",
+    "dataSource": "commits",
     "prefix": "v",
     "onlyMilestones": false,
     "groupBy": "label",
