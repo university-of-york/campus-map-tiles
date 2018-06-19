@@ -1,8 +1,7 @@
 {
-    "token": "85e39740b0c1ec527e21f740ded7a0cea82e63b3",
     "dataSource": "prs",
     "prefix": "v",
     "onlyMilestones": false,
-    "groupBy": false,
+    "groupBy": "label",
     "changelogFilename": "CHANGELOG.md"
 }
