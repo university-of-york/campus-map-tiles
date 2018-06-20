@@ -39,7 +39,6 @@ module.exports = {
         })
     ],
     output: {
-        //filename: '[name].bundle.min.js',
         path: path.resolve(__dirname, "dist")
     },
     module: {
