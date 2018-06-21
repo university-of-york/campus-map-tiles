@@ -22,7 +22,7 @@ module.exports = {
         new CopyWebpackPlugin([
             {
                 from:'./tiles',
-                to:'img'
+                to:'tiles'
             }
         ]),
         new ImageminPlugin(

@@ -12,7 +12,5 @@
   "scripts": {
     "build": "webpack"
   },
-  "dependencies": {
-    "github-release-notes": "^0.16.0"
-  }
+  "dependencies": {}
 }
